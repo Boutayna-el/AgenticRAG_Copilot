@@ -15,3 +15,5 @@ openai
 pypdf
 python-docx
 python-dotenv
+langchain-huggingface
+sentence-transformers
