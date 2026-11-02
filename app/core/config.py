@@ -11,7 +11,7 @@ class Settings(BaseSettings):
     tavily_api_key: str = ""
     pinecone_api_key: str = ""
     pinecone_index_name: str = "support-rag"
-    pinecone_namespace: str = "company-it-kb"
+    pinecone_namespace: str = "COMPANYITKB"
     embedding_model: str = "sentence-transformers/all-MiniLM-L6-v2"
     model: str = "openai/gpt-oss-20b"
     top_k: int = 4

@@ -7,7 +7,9 @@ authors = [
     { name = "boutayna", email = "elmoujaouid.boutayna@gmail.com" }
 ]
 requires-python = ">=3.11"
-dependencies = []
+dependencies = [
+    "langchain-pinecone>=0.2.13",
+]
 
 [project.scripts]
 agenticrag-copilot = "agenticrag_copilot:main"
