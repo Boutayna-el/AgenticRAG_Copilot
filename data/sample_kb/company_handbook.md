@@ -1,16 +1,21 @@
-# NovaRetail Internal IT Support Handbook
+# NovaBank Internal Operations and Compliance Handbook
 
-## VPN Access
-Employees working outside the office must use the company VPN before accessing internal systems. Install the NovaSecure VPN client from the internal Software Portal. Sign in with your company email and password, complete MFA, and select the closest corporate gateway. If the connection fails, first confirm internet connectivity, restart the client, and try another corporate gateway. Do not disable endpoint security or firewall settings to make the VPN work. If the problem remains, open an IT ticket with a screenshot of the error.
+> NovaBank is a fictional company. This document is sample data for demonstration purposes only.
 
-## Password Reset Policy
-Company passwords must be at least 14 characters. Employees should use the self-service identity portal for normal password resets. After five failed login attempts, the account may be temporarily locked. If self-service recovery fails, contact IT Service Desk. Employees must never share passwords or MFA codes with support personnel.
+## Reporting Suspected Fraud
+Employees who notice a suspicious transaction or a suspected fraud attempt must report it through the Fraud Reporting form on the internal Compliance Portal within 24 hours. Include the account reference, the transaction date and amount, and a short description of what looked unusual. Do not warn the customer or the account holder before the Fraud Team has reviewed the case. Do not attempt to reverse or block the transaction yourself. If the case is urgent, also call the Fraud Team hotline and mention the report reference.
 
-## Multi-Factor Authentication
-MFA is mandatory for email, VPN, cloud administration, and other protected company systems. The approved methods are the company authenticator app and registered hardware security keys. SMS should only be used when explicitly enabled as a recovery method.
+## Customer Data Protection
+Customer account details, balances, and identity documents are confidential. Employees must never send customer account numbers, identity documents, or balances by regular email or messaging apps. Use the approved secure messaging tool in the Customer Service Platform instead. Access customer files only when you need them for a specific task, and never share customer data with colleagues who are not involved in the case. Suspected data leaks must be reported to the Data Protection Officer immediately.
 
-## Software Installation
-Employees should install business software only from the company Software Portal. Requests for software not listed in the portal require manager approval and IT security review. Administrator access is not granted simply to install unapproved applications.
+## Customer Identity Verification
+Before opening an account or processing a high-value request, employees must verify the customer's identity. Accepted documents are a valid national ID card, a passport, or a residence permit. A proof of address issued in the last three months is also required for new accounts. If a document looks altered or the details do not match, do not continue the process and escalate the case to the Compliance Team. Never accept photos of documents sent through personal email or messaging apps.
 
-## Lost or Stolen Laptop
-Immediately report a lost or stolen company laptop to the IT Service Desk and your manager. Provide the device asset tag if available and the last known location. IT will initiate device lock/wipe procedures and coordinate with Security. Do not attempt to remotely recover the device yourself.
+## Loan Application Procedure
+Loan requests must be entered in the Loan Management System together with the customer's income proof and the last three months of bank statements. Personal loans under 10,000 EUR can be approved by a branch advisor. Loans between 10,000 and 50,000 EUR require approval from the branch manager. Loans above 50,000 EUR must be reviewed by the Credit Risk Committee. Employees must not promise an approval to the customer before the final decision is recorded in the system.
+
+## Suspicious Activity and Anti-Money-Laundering Escalation
+Unusual patterns, such as repeated cash deposits just below the reporting threshold or transfers that do not match the customer's profile, must be escalated to the Compliance Team through the Compliance Portal. Employees must not tell the customer that a report has been made. All reports are confidential and are handled only by authorized compliance officers.
+
+## Lost or Stolen Company Device
+Immediately report a lost or stolen company laptop or phone to the IT Service Desk and your manager. Provide the device asset tag if available and the last known location. IT will lock or wipe the device and inform the Security Team. Do not try to recover the device yourself.
