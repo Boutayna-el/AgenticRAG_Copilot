@@ -4,7 +4,7 @@ An AI assistant that answers NovaBank employees' questions about internal proced
 
 **Stack:** LangGraph · FastAPI · Pinecone · Groq · Tavily · HuggingFace Embeddings · HTML/CSS/JavaScript
 
-> NovaBank is a fictional company created for demonstration purposes. 
+> NovaBank is a fictional company created for demonstration purposes. Any resemblance to real organizations is coincidental.
 
 ---
 
@@ -89,7 +89,7 @@ python ingest_sample_kb.py
 python run.py
 ```
 
-Open `http://127.0.0.1:8000` for the app, or `http://127.0.0.1:8000/docs` for the API docs.
+Open `http://127.0.0.1:8080` for the app, or `http://127.0.0.1:8080/docs` for the API docs.
 
 ## 6. Adding Documents
 
